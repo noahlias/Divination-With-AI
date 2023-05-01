@@ -1,7 +1,7 @@
 
 # Divination With AI
 
-![divination](./docs/images/divination_chatgpt.png)
+<img src= "./docs/images/divination_chatgpt.png" width = "50%" height = "50%"/>
 
 This is a experimental project to test the **AI** can support the `Divination` :crystal_ball:
 
